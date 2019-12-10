@@ -21,7 +21,7 @@ module.exports = function () {
     allowConfigUpdate: true, //set to false to turn off REST endpoint of allowing update of metadata
     waitForMoreResponsesMs: 200,  //milliseconds to wait for additional webhook responses
               // amzn1.ask.skill.df22d270-6bc3-4a37-8e53-b8d7a1f1717f
-    amzn_appId: "amzn1.ask.skill.525baf9d-2839-4fc6-aa09-a64dbe1e48f1",
+    amzn_appId: "amzn1.ask.skill.3f1a08c2-8a74-49ba-a9ad-e408ef4f747c",
     channelSecretKey: 'HRFiMsmfdMKVbjMgex2TS3f3DEqhdekT',
 	channelUrl: 'https://botphx1I0014H76DC67bots-mpaasocimt.botmxp.ocp.oraclecloud.com:443/connectors/v1/tenants/idcs-100b89d671b54afca3069fe360e4bad4/listeners/webhook/channels/a45f110a-a79a-4051-91c2-5cbca3f6c3eb' 
 	
